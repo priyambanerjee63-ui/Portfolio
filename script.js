@@ -3,7 +3,7 @@
    ========================================== */
 const SITE_CONFIG = {
   trainingInstitute: "Ardent Computech Pvt. Ltd.",
-  trainerName: "PRIYAM BANERJEE",
+  trainerName: "SK SAHIL",
   trainerRole: "Full Stack AI Developer",
   collegeName: "GNIT Kolkata",
   department: "ECE Engineering",
